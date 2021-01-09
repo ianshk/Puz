@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict>
+		<key>com.steinlogic.dummyconsumable.pack10</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>10</integer>
+			<key>ConsumableId</key>
+			<string>EnergyPoints</string>
+		</dict>
+		<key>com.steinlogic.dummyconsumable.pack100</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>100</integer>
+			<key>ConsumableId</key>
+			<string>EnergyPoints</string>
+		</dict>
+	</dict>
+	<key>Others</key>
+	<array>
+		<string>com.steinlogic.dummysubscription.3months</string>
+	</array>
+	<key>SharedSecret</key>
+	<string>key-from-your-itunesconnect</string>
+</dict>
+</plist>
